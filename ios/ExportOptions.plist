@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://192.168.0.214/app/L3SWH.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://192.168.0.214/app/L3SWH75.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://192.168.0.214/app/L3SWH512.png</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>jp.co.l3swh.traapo</key>
+		<string>l3swh_hoc_distribution</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>86C53F911AF658F052DAE0C7ECC31A25B366108F</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>C43ZQZ2B3M</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
